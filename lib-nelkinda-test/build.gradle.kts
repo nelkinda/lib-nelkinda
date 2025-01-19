@@ -19,7 +19,7 @@ dependencies {
     implementation("jakarta.inject:jakarta.inject-api:2.0.1")
     implementation("org.junit.jupiter:junit-jupiter-api:5.11.4")
     implementation("org.mockito.kotlin:mockito-kotlin:5.4.0")
-    implementation("org.springframework:spring-context:6.2.1")
+    implementation("org.springframework:spring-context:6.2.2")
     implementation("org.springframework.boot:spring-boot:3.4.1")
 
     testImplementation("org.mockito.kotlin:mockito-kotlin:5.4.0")

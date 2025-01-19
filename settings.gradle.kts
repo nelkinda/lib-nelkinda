@@ -3,6 +3,9 @@ plugins {
 }
 
 rootProject.name = "lib-nelkinda"
+
 include(
     "lib-nelkinda",
+    "lib-nelkinda-test",
+    "lib-nelkinda-test-selenium",
 )

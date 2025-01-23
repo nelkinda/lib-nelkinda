@@ -23,7 +23,7 @@ dependencies {
     }
     implementation("org.mockito.kotlin:mockito-kotlin:5.4.0")
     implementation("org.springframework:spring-context:6.2.1")
-    implementation("org.springframework.boot:spring-boot:3.4.1")
+    implementation("org.springframework.boot:spring-boot:3.4.2")
 
     testImplementation("org.mockito.kotlin:mockito-kotlin:5.4.0")
 }

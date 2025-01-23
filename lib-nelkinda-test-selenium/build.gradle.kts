@@ -17,7 +17,7 @@ dependencies {
     implementation("io.cucumber:cucumber-spring:7.20.1")
     implementation("jakarta.inject:jakarta.inject-api:2.0.1")
     implementation("org.junit.jupiter:junit-jupiter-api:5.11.4")
-    implementation("org.seleniumhq.selenium:selenium-java:4.27.0") {
+    implementation("org.seleniumhq.selenium:selenium-java:4.28.1") {
         exclude(group = "io.opentelemetry")
         exclude(group = "net.bytebuddy")
     }
